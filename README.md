@@ -5,4 +5,7 @@ Tutorial [https://golang.org/doc/articles/wiki/](https://golang.org/doc/articles
 ```
 go build
 ./wiki
+
+// run simple web
+go run simpleweb.go
 ```
